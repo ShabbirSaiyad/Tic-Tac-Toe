@@ -8,7 +8,8 @@
 .wrapper{
     width:100vw;
     height:100vh;
-    background-image: url(./Assets/gradient-bg.jpg);
+    /* background-image: url(./Assets/gradient-bg.jpg); */
+    background-color: rgba(0, 0, 0, 0.769);
     display:grid;
     background-size: cover;
     background-position: center;
